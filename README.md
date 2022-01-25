@@ -1,1 +1,1 @@
-# Christmast-Tree-Pattern
+# Christmas-Tree-Pattern
